@@ -1,10 +1,10 @@
-=React Docgen Demo
+# React Docgen Demo
 Demonstrates using react-docgen library to parse react components
 and extract metadata into a JSON structure. This could then be used
 to train an ML model or it could be used with a GPT prompt to automatically 
 generate selenium tests.
 
-==Running the Demo
+## Running the Demo
 
 ```
 npm install
